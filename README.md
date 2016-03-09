@@ -1,1 +1,18 @@
 # Ada-Essays
+###**Essay 1:**  
+&nbsp;&nbsp;&nbsp;I used to really suck at math. I remember wishing death upon my sadistic trigonometry teacher who would list our test scores on the board. In descending order. I would shield my paper from prying eyes and shamefully stay after class. Finally, after testing Mr. Greene’s patience like he tested my improvement, I found myself second from the top of the list.  
+&nbsp;&nbsp;&nbsp;Last summer, I quit my job in an effort to reroute my career. Other than a friend’s constant declaration that programming was a ‘force multiplier, I didn’t know too much about it. On a whim, I enrolled in a Python course on Coursera, whose previous courses had all caused me to abandon ship once the readings got too boring or the lectures too long. I finished the first course in two weeks. As a kid, I was obsessed with puzzles: Gollum’s riddles in The Hobbit, Mensa for Kids puzzles, and Rubik’s Cubes. Writing code felt like solving one of these logic puzzles or piecing together a tricky math problem. I have since taken two more courses on Python through Coursera, one course on Agile, and several basic web design courses utilizing HTML and CSS on Code Academy. 
+
+###**Essay 2:**  
+&nbsp;&nbsp;&nbsp;I’ve spent a lot of time working with start-ups, but most of that time was spent witnessing clashing egos and financial meltdowns. I once worked for two weeks out of a garage in Venice, but was let go when their China venture burned, effectively eliminating my job. My past experiences have had a profound affect on the types of organizations and jobs I would like to have in the future.  
+&nbsp;&nbsp;&nbsp;In two years, I will be a software developer at a start-up focusing on UX design. During this time, I hope to find a job that I enjoy going to every morning, a job where I can grow, learn, and explore. I’m interested in focusing on UX because I’ve always enjoyed understanding what people do and why. (I also obtain huge satisfaction from neat and clean design, such as a nicely formatted document.) 
+&nbsp;&nbsp;&nbsp;In five years, I hope to realize my dream of managing a community café space run entirely by a team of women, working part time in creative jobs and part time at the café. I will continue working as a software developer, ideally working with a small team of female developers dedicated to supporting female entrepreneurs.  
+
+###**Essay 3:**
+&nbsp;&nbsp;&nbsp;After my promotion to Academic Director, mistakes became akin to a daily inevitability. I had never held a management role, and three months into this new position, I lived every day in fear of a coup. 
+&nbsp;&nbsp;&nbsp;During this time, four of us were dealing with high teaching loads and large class sizes at a new partner school. I’ve always been one for big ideas and my idealism led me to believe that my team and I were capable of crafting a 3-hour exam for our students. However, crafting hundreds of questions with unanimous agreement on the answers soon proved impossible. 
+&nbsp;&nbsp;&nbsp;When the day to submit the midterm came, our Dropbox was littered with unorganized file names and edits were being delivered via phone. I submitted the document, but of course it was riddled with errors. The worst part of the whole thing was letting down my team.
+&nbsp;&nbsp;&nbsp;Luckily, midterms are not a one-off deal. In preparation for the second exam, we began working a month before the submission deadline and clearly established individual deadlines and a core editor of the master document. I learned the importance of grounding my ideas with realistic expectations; lofty goals are useless, without follow through. 
+
+###**Essay 4:**
+&nbsp;&nbsp;&nbsp;
