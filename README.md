@@ -9,16 +9,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;In five years, I hope to realize my dream of managing a community café space run entirely by a team of women, working part time in creative jobs and part time at the café. I will continue working as a software developer, ideally working with a small team of female developers dedicated to supporting female entrepreneurs.  
 
 ###**Essay 3:**
-&nbsp;&nbsp;&nbsp;&nbsp;After my promotion to Academic Director, mistakes became akin to a daily inevitability. I had never held a management role, and three months into this new position, I lived every day in fear of a coup. 
-&nbsp;&nbsp;&nbsp;&nbsp;During this time, four of us were dealing with high teaching loads and large class sizes at a new partner school. I’ve always been one for big ideas and my idealism led me to believe that my team and I were capable of crafting a 3-hour exam for our students. However, crafting hundreds of questions with unanimous agreement on the answers soon proved impossible. 
-&nbsp;&nbsp;&nbsp;&nbsp;When the day to submit the midterm came, our Dropbox was littered with unorganized file names and edits were being delivered via phone. I submitted the document, but of course it was riddled with errors. The worst part of the whole thing was letting down my team.
+&nbsp;&nbsp;&nbsp;&nbsp;After my promotion to Academic Director, mistakes became akin to a daily inevitability. I had never held a management role, and three months into this new position, I lived every day in fear of a coup.  
+&nbsp;&nbsp;&nbsp;&nbsp;During this time, four of us were dealing with high teaching loads and large class sizes at a new partner school. I’ve always been one for big ideas and my idealism led me to believe that my team and I were capable of crafting a 3-hour exam for our students. However, crafting hundreds of questions with unanimous agreement on the answers soon proved impossible.  
+&nbsp;&nbsp;&nbsp;&nbsp;When the day to submit the midterm came, our Dropbox was littered with unorganized file names and edits were being delivered via phone. I submitted the document, but of course it was riddled with errors. The worst part of the whole thing was letting down my team.  
 &nbsp;&nbsp;&nbsp;&nbsp;Luckily, midterms are not a one-off deal. In preparation for the second exam, we began working a month before the submission deadline and clearly established individual deadlines and a core editor of the master document. I learned the importance of grounding my ideas with realistic expectations; lofty goals are useless, without follow through. 
 
 ###**Essay 4:**
-&nbsp;&nbsp;&nbsp;&nbsp;“Some of the students are concerned that you make some mistakes during class.” I was in a meeting with Wang Xi, a colleague managing our school partnerships. “So, in the future, can you not make any more mistakes?” 
-&nbsp;&nbsp;&nbsp;&nbsp;On the second day of my first real job ever, I was to prepare to teach AP Calculus starting in four days. I had never taught before and had originally signed on to teach SAT coursework. Now I was expected to teach Calculus to Chinese high schoolers. 
-&nbsp;&nbsp;&nbsp;&nbsp;Teaching is a lot more learning than I had originally thought. I learned how to command a room. I practiced my speaking, my posture, my body movement. 
-&nbsp;&nbsp;&nbsp;&nbsp;When my students started to bring out their phones during class, I learned how to raise excitement. Class time was entirely devoted to having students solve problems on the board.
-&nbsp;&nbsp;&nbsp;&nbsp;After answering a few questions incorrectly, I learned how to bluff. “Maybe the answer is 17. Prove it to me first.”
+&nbsp;&nbsp;&nbsp;&nbsp;“Some of the students are concerned that you make some mistakes during class.” I was in a meeting with Wang Xi, a colleague managing our school partnerships. “So, in the future, can you not make any more mistakes?"  
+&nbsp;&nbsp;&nbsp;&nbsp;On the second day of my first real job ever, I was to prepare to teach AP Calculus starting in four days. I had never taught before and had originally signed on to teach SAT coursework. Now I was expected to teach Calculus to Chinese high schoolers.  
+&nbsp;&nbsp;&nbsp;&nbsp;Teaching is a lot more learning than I had originally thought. I learned how to command a room. I practiced my speaking, my posture, my body movement.  
+&nbsp;&nbsp;&nbsp;&nbsp;When my students started to bring out their phones during class, I learned how to raise excitement. Class time was entirely devoted to having students solve problems on the board.  
+&nbsp;&nbsp;&nbsp;&nbsp;After answering a few questions incorrectly, I learned how to bluff. “Maybe the answer is 17. Prove it to me first.”  
 &nbsp;&nbsp;&nbsp;&nbsp;While talking with Charlie, who was teaching AP Economics, I realized Wang Xi’s feedback was just a little tough love. “Yah, Wang Xi completely chewed me out and said that I needed to be more like you.”
 
